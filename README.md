@@ -5,4 +5,4 @@ Este projeto foi desenvolvido durante a última unidade da disciplina de Program
 Para poder rodar a aplicação, é preciso seguir os seguintes comandos:\
 1- Criar um ambiente virtual: python -m venv (nome_do_ambiente_virtual)\
 2- Ativar o ambiente virtual: (nome_do_ambiente_virtual)/Scripts/activate\
-3- Instalar os pacotes necessários para o projeto: pip install -r requirements.txt\
+3- Instalar os pacotes necessários para o projeto: pip install -r requirements.txt
