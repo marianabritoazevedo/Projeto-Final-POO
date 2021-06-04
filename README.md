@@ -1,0 +1,2 @@
+# Projeto-Final-POO
+Este projeto foi desenvolvido durante a última unidade da disciplina de Programação Orientada a Objetos da UFRN. Este projeto consiste no desenvolvimento de uma interface com aplicações na área de Data Sciente. Ela permite a leitura de arquivos .csv acerca de transações, mostrando dados sobre o usuário que realizou a transação, valores na sua conta, entre outros, e também permite a geração de 4 tipos de gráfico para a visualização dos dados das transações: gráfico de dispersão, diagrama de caixa, histograma e função de distribuição acumulada.
